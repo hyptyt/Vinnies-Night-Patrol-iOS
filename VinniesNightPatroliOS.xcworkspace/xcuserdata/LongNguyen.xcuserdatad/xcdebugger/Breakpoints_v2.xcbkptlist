@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72CBCE50-6C18-4499-A6A0-75C901269B0B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F587FC-6C86-4B61-A629-CA4DECEA0720"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.145723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AE0193A-1130-4A8D-B66D-1153430A01E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.146155"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE703C6A-4A7D-49AE-8314-78502D8FF633"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.14645"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3401107-FA11-4C8D-A87A-33BA1C8862F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.1467431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FFA032F-4595-4027-9DD2-47686917D321"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.147045"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45B466A3-7748-47FD-B578-527442A1002F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.147364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5803FEE0-9F6B-45CC-8324-1C64BB60B242"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.147652"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "456790AA-5C72-4B1D-B173-69F6CCD0B760"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.147936"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB6383CC-FA1C-4330-A315-2A1519417758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/ViewController.swift"
+            timestampString = "593309655.148208"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "DoLogIn(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VinniesNightPatroliOS/View Controllers/AdminShiftsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "AdminShiftsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB - ceba621489b733aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinniesNightPatroliOS.AdminShiftsViewController.shift.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "VinniesNightPatroliOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LongNguyen/Desktop/VinniesNightPatroliOS/VinniesNightPatroliOS/View%20Controllers/AdminShiftsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB - aeece26096f4a79e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinniesNightPatroliOS.AdminShiftsViewController.shift.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "VinniesNightPatroliOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LongNguyen/Desktop/VinniesNightPatroliOS/VinniesNightPatroliOS/View%20Controllers/AdminShiftsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB - c04d41fdb8dd84a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinniesNightPatroliOS.AdminShiftsViewController.shift.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "VinniesNightPatroliOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LongNguyen/Desktop/VinniesNightPatroliOS/VinniesNightPatroliOS/View%20Controllers/AdminShiftsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB - c34f7d54b94500b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinniesNightPatroliOS.AdminShiftsViewController.shift.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "VinniesNightPatroliOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LongNguyen/Desktop/VinniesNightPatroliOS/VinniesNightPatroliOS/View%20Controllers/AdminShiftsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB - a328c3c99fa1b072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinniesNightPatroliOS.AdminShiftsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; VinniesNightPatroliOS.AdminShiftsViewController"
+                  moduleName = "VinniesNightPatroliOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LongNguyen/Desktop/VinniesNightPatroliOS/VinniesNightPatroliOS/View%20Controllers/AdminShiftsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "899">
+               </Location>
+               <Location
+                  uuid = "DFAECC0F-987B-4558-AB9C-0A7C72B0DDBB - aadf8fef66815fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VinniesNightPatroliOS.AdminShiftsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;VinniesNightPatroliOS.AdminShiftsViewController&gt;"
+                  moduleName = "VinniesNightPatroliOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LongNguyen/Desktop/VinniesNightPatroliOS/VinniesNightPatroliOS/View%20Controllers/AdminShiftsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "831">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
